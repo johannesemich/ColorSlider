@@ -142,7 +142,7 @@
     NSLog(@"%s", __PRETTY_FUNCTION__);
     
     self.view.backgroundColor = [UIColor colorWithRed:self.sliderRed.value green:self.sliderGreen.value blue:self.sliderBlue.value alpha:1];
-    _sliderLabelRGBColor setText:@"test";«
+    [sliderLabelRGBColor setText:@"test"];
 }
 
 - (void)sliderBrightnessValueChanged:(UISlider *)sender
