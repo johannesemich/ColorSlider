@@ -147,7 +147,6 @@
 
 - (void)sliderBrightnessValueChanged:(UISlider *)sender
 {
-    
     [[UIScreen mainScreen] setBrightness:self.sliderBrightness.value];
 }
 @end
