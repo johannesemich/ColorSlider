@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A30FA666170821770022C5D2"
-            BuildableName = "PatricksPlayground.app"
-            BlueprintName = "PatricksPlayground"
-            ReferencedContainer = "container:PatricksPlayground.xcodeproj">
+            BuildableName = "ColorSlider.app"
+            BlueprintName = "ColorSlider"
+            ReferencedContainer = "container:ColorSlider.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A30FA666170821770022C5D2"
-            BuildableName = "PatricksPlayground.app"
-            BlueprintName = "PatricksPlayground"
-            ReferencedContainer = "container:PatricksPlayground.xcodeproj">
+            BuildableName = "ColorSlider.app"
+            BlueprintName = "ColorSlider"
+            ReferencedContainer = "container:ColorSlider.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
